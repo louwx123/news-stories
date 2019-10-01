@@ -18,7 +18,7 @@ body {
   max-width: 30em;
   margin: 1em 0;
   text-align: left;
-  opacity: 0.5;
+  box-shadow: 5px 10px;
   border-radius: 0.5em;
 }
 .news-lead {
@@ -29,4 +29,10 @@ body {
 }
 .story-text{
   padding: 0 1em;
+}
+
+.btn{
+  width: 100%;
+  border-radius: 1em;
+  background-color: lightblue;
 }
